@@ -1,0 +1,5 @@
+dist
+MANIFEST
+R.py
+*.egg-info
+*.pyc
