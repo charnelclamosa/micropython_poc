@@ -1,0 +1,8 @@
+{
+  "urls": [
+    ["multiplication/__init__.py", "github:charnelclamosa/micropython_poc/python/multiplication/__init__.py"],
+    ["multiplication/__init__.py", "github:charnelclamosa/micropython_poc/python/multiplication/multiply_by_three.py"],
+    ["multiplication/__init__.py", "github:charnelclamosa/micropython_poc/python/multiplication/multiply_by_two.py"]
+  ],
+  "version": "0.0.1"
+}
